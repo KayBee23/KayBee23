@@ -1,0 +1,3 @@
+- 🙋‍♂️ Hi, I'm Benjamin Körmöczy.
+- 💻 I'm intrested in web developement and UI/UX designs.
+- 📖 I'm currently learning Javascript and reinforcing my HTML and CSS knowledge.
